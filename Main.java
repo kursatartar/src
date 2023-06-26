@@ -17,13 +17,10 @@ public class Main {
 
 
         );
-
-        // Sample platforms
         List<Platform> platforms = List.of(
                 new Platform("Cimri", "JSON"),
                 new Platform("Google", "XML"),
                 new Platform("Facebook" , "XML")
-                // Add more platforms here
         );
 
         FeederSystem feederSystem = new FeederSystem(products, platforms);
