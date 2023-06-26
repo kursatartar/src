@@ -1,7 +1,7 @@
 class Product {
     private String id;  //id için string tercih ettim çünkü ileride trafik artar ve
     // birden fazla sunucu olursa duplicate id'leri engellemek
-    // zor olabilir diye düşündüm.
+    // zor olabilir.
     private String name;
     private double price;
     private String category;
