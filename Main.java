@@ -152,13 +152,13 @@ public class Main {
                 new Product(1, "Product 1", 1.00, "Electronic"),
                 new Product(2, "Product 2", 2.00, "Fashion"),
                 new Product(3, "Product 3", 3.00, "Home Decor"),
-        new Product(3, "Product 4", 4.00, "Electronic"),
-        new Product(3, "Product 5", 5.00, "Fashion"),
-        new Product(3, "Product 6", 6.00, "Home Decor"),
-        new Product(3, " Product 7 ", 7.00, "Electronic"),
-        new Product(3, " Product 8 ", 8.00, "Fashion"),
-        new Product(3, " Product 9 ", 9.00, "Home Decor"),
-        new Product(3, " Product 10 ", 10.00, "Electronic")
+                new Product(3, "Product 4", 4.00, "Electronic"),
+                new Product(3, "Product 5", 5.00, "Fashion"),
+                new Product(3, "Product 6", 6.00, "Home Decor"),
+                new Product(3, "Product 7", 7.00, "Electronic"),
+                new Product(3, "Product 8", 8.00, "Fashion"),
+                new Product(3, "Product 9", 9.00, "Home Decor"),
+                new Product(3, "Product 10",10.00, "Electronic")
 
 
                 );
